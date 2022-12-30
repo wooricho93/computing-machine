@@ -164,7 +164,7 @@
 				<h2>오늘의 책</h2>
 				<div id="sec1-1">
 					<div class="sec1-1book">
-						<a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=82"><img alt="" src="http://image.yes24.com/goods/69655504/XL" width="100%" height="70%"></a>
+						<a href="http://localhost:8081/BookProject/BookServlet?command=book_detail&num=82"><img alt="" src="http://image.yes24.com/goods/69655504/XL" width="100%" height="70%"></a>
 						<div class="sec1-1text">
 							<p><a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=82">아주 작은 습관의 힘</a></p>
 							<p>제임스 클리어 저/이한이 역</p>
@@ -172,7 +172,7 @@
 						</div>
 					</div>
 					<div class="sec1-1book">
-						<a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=103"><img alt="" src="http://image.yes24.com/goods/1387488/XL" width="100%" height="70%"></a>
+						<a href="http://localhost:8081/BookProject/BookServlet?command=book_detail&num=103"><img alt="" src="http://image.yes24.com/goods/1387488/XL" width="100%" height="70%"></a>
 						<div class="sec1-1text">
 							<p><a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=103">인간실격</a></p>
 							<p>다자이 오사무 저</p>
@@ -180,7 +180,7 @@
 						</div>
 					</div>
 					<div class="sec1-1book">
-						<a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=135"><img alt="" src="http://image.yes24.com/goods/112046565/XL" width="100%" height="70%"></a>
+						<a href="http://localhost:8081/BookProject/BookServlet?command=book_detail&num=135"><img alt="" src="http://image.yes24.com/goods/112046565/XL" width="100%" height="70%"></a>
 						<div class="sec1-1text">
 							<p><a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=135">부모의 말</a></p>
 							<p>김종원 저</p>
@@ -188,7 +188,7 @@
 						</div>
 					</div>
 					<div class="sec1-1book">
-						<a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=142"><img alt="" src="http://image.yes24.com/goods/102687133/XL" width="100%" height="70%"></a>
+						<a href="http://localhost:8081/BookProject/BookServlet?command=book_detail&num=142"><img alt="" src="http://image.yes24.com/goods/102687133/XL" width="100%" height="70%"></a>
 						<div class="sec1-1text">
 							<p><a href="http://localhost:8081/Project/BookServlet?command=book_detail&num=142">밝은 밤</a></p>
 							<p>최은영 저</p>
