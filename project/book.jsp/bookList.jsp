@@ -156,11 +156,11 @@
 						<b>출판사</b> &nbsp; ${book.pub} <input type="hidden" name="pub" value="${book.pub}"><br> <b>가격</b> &nbsp;
 						${book.price}&nbsp;원 <input type="hidden" name="price" value="${book.price}"><br> <b>줄거리</b> <br>${book.summary}
 					</td>
-					<th width="100px;"><a href="BookServlet?command=cart_add" id="cart"> <img alt=""
+					<!-- <th width="100px;"><a href="BookServlet?command=cart_add" id="cart"> <img alt=""
 							width="100%" height="100%"
 							src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb0cUga%2FbtrURTstBS4%2FvfCL8IU8BoC2CH9ogwjuT1%2Fimg.png">
 							<br> <em>장바구니</em>
-					</a></th>
+					</a></th> -->
 				</tr>
 			</c:forEach>
 		</table>
