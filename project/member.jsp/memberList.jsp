@@ -8,15 +8,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<c:if test="${message == 'delete'}">
-	<script>
-		window.onload = function() {
-			alert("회원 정보가 정상적으로 삭제되었습니다.");
-		}
-	</script>
-</c:if>
 <meta charset="UTF-8">
 <title>회원 목록</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
 <link rel="stylesheet" type="text/css" href="css/memberList.css">
 <link rel="stylesheet" type="text/css" href="css/common.css">
 <script type="text/javascript" src="script/member.js"></script>
