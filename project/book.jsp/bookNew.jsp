@@ -123,8 +123,10 @@
 				<tr class="record">
 					<td>1</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=1">
 						<img alt="" 
 						src="http://image.yes24.com/goods/113416767/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 경제 경영<br>
 						<b>제목</b> &nbsp; 
@@ -144,8 +146,10 @@
 				<tr class="record">
 					<td>2</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=7">
 						<img alt="" 
 						src="http://image.yes24.com/goods/113789375/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 가정 살림<br>
 						<b>제목</b> &nbsp; 
@@ -165,8 +169,10 @@
 				<tr class="record">
 					<td>3</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=24">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114336082/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 예술<br>
 						<b>제목</b> &nbsp; 
@@ -187,8 +193,10 @@
 				<tr class="record">
 					<td>4</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=43">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114273352/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 소설/시/희곡<br>
 						<b>제목</b> &nbsp; 
@@ -208,8 +216,10 @@
 				<tr class="record">
 					<td>5</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=61">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114848694/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 에세이<br>
 						<b>제목</b> &nbsp; 
@@ -229,8 +239,10 @@
 				<tr class="record">
 					<td>6</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=83">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114951396/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 경제 경영<br>
 						<b>제목</b> &nbsp; 
@@ -250,8 +262,10 @@
 				<tr class="record">
 					<td>7</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=88">
 						<img alt="" 
 						src="http://image.yes24.com/goods/113751739/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 자기계발<br>
 						<b>제목</b> &nbsp; 
@@ -271,8 +285,10 @@
 				<tr class="record">
 					<td>8</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=94">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114857322/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 에세이<br>
 						<b>제목</b> &nbsp; 
@@ -292,8 +308,10 @@
 				<tr class="record">
 					<td>9</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=133">
 						<img alt="" 
 						src="http://image.yes24.com/goods/114648022/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 에세이<br>
 						<b>제목</b> &nbsp; 
@@ -313,8 +331,10 @@
 				<tr class="record">
 					<td>10</td>
 					<td>
+						<a href="BookServlet?command=book_detail&num=141">
 						<img alt="" 
 						src="http://image.yes24.com/goods/115053942/XL" id="cover">
+						</a>
 					</td>
 					<td><b>카테고리</b> &nbsp; 에세이<br>
 						<b>제목</b> &nbsp; 
